@@ -1,3 +1,3 @@
 <P>
-  <img src="">
+  <img src="img.png">
 </P>
