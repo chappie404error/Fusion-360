@@ -1,6 +1,6 @@
 <p>
   <p>
-    Height = 550mm</br>
+    Height = 350mm</br>
     Width = 15mm
   </p>
   <img src="img.png">
